@@ -1,0 +1,16 @@
+{
+  "server": "Cowboy",
+  "connection": "keep-alive",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "set-cookie": [
+    "access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0OWIzMDdjZDczZjg3MDAxNGNlYzIxNSIsImZpcnN0TmFtZSI6IkdyYW50IiwibGFzdE5hbWUiOiJSaXRjaGllLVN0ZXViZXIiLCJpYXQiOjE2ODc4OTIwOTJ9.AdomnvRyyE-_UiDBCYjbrfFitbO8-qIVHQu-lTpqOE4; Path=/",
+    "userID=j%3A%22649b307cd73f870014cec215%22; Path=/",
+    "firstName=Grant; Path=/"
+  ],
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "288",
+  "etag": "W/\"120-Zyty5e3aZvtFsXg6WJtzD3DKh7c\"",
+  "date": "Tue, 27 Jun 2023 18:54:52 GMT",
+  "via": "1.1 vegur"
+}

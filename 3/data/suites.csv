@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jun 27 18:55:04 GMT 2023","Tue Jun 27 18:55:08 GMT 2023","4133","","","","","","should be able to register",""
+"passed","Tue Jun 27 18:54:48 GMT 2023","Tue Jun 27 18:54:52 GMT 2023","3876","","Todo Test cases","","","","should be able to add a todo",""
+"passed","Tue Jun 27 18:54:52 GMT 2023","Tue Jun 27 18:54:53 GMT 2023","1440","","Todo Test cases","","","","should be able to delete a todo",""

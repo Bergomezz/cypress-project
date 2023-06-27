@@ -1,0 +1,11 @@
+{
+  "server": "Cowboy",
+  "connection": "keep-alive",
+  "x-powered-by": "Express",
+  "access-control-allow-origin": "*",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "160",
+  "etag": "W/\"a0-Sc025L0MlI5rD7ieLwcXNP92M8s\"",
+  "date": "Tue, 27 Jun 2023 18:54:52 GMT",
+  "via": "1.1 vegur"
+}
